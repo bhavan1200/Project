@@ -8,8 +8,8 @@
     "amplify/backend/amplify-meta.json": true,
     "amplify/backend/awscloudformation": true
   },
-  "terminal.integrated.shellArgs.windows": ["-ExecutionPolicy", "Bypass"]
-
-  
+  "terminal.integrated.shellArgs.windows": [
+    "-ExecutionPolicy",
+    "Bypass"
+  ]
 }
-
