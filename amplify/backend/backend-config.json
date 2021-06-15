@@ -1,6 +1,6 @@
 {
   "auth": {
-    "project38a12e8a": {
+    "projectb13d1fc4": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
@@ -16,7 +16,7 @@
           "defaultAuthentication": {
             "authenticationType": "AMAZON_COGNITO_USER_POOLS",
             "userPoolConfig": {
-              "userPoolId": "authproject38a12e8a"
+              "userPoolId": "authprojectb13d1fc4"
             }
           },
           "additionalAuthenticationProviders": []
